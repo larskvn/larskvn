@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Peru</h3>
 <img align='right' src="https://media3.giphy.com/media/y5OffROvBod0s/giphy.gif?cid=ecf05e47j5amb7du1vv8uyvsiei17uzfnop1l5dz7dnsy5dc&rid=giphy.gif&ct=g" width="230">
 <p><em> Software design and development <a href="http://www.unb.br">Certus</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  
+- Me gusta la programción y tambien el freestyle   
 
  
 <h3 align="left">Connect with me:</h3>
