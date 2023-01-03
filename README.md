@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lars kvn</h1>
 
-[![](https://img.shields.io/badge/-@kvnyarbis-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/KvnYarbis)
-[![](https://img.shields.io/badge/-@larskvn-%23181717?style=flat-square&logo=github)](https://github.com/larskvn)
-[![](https://img.shields.io/badge/-@larskvn-%23181711?style=flat-square&logo=instagram&style=social)](https://www.instagram.com/larskvn/)
-
-
-
 
 <h3 align="center">A passionate frontend developer from Peru</h3>
 <img align='right' src="https://media3.giphy.com/media/y5OffROvBod0s/giphy.gif?cid=ecf05e47j5amb7du1vv8uyvsiei17uzfnop1l5dz7dnsy5dc&rid=giphy.gif&ct=g" width="230">
-<p><em> Software design and development <a href="http://www.unb.br">Certus</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
-- Me gusta la programción y tambien el freestyle   
+<h3></h3>
+<p><em> -Software design and development <a href="https://www.certus.edu.pe/">Certus</a><br>
+<p><em> -2.° lugar en la NTT Data Challenge 2021  team WHITE RABBIT <a href="https://estudiantes.certus.edu.pe/equipo-de-la-carrera-de-diseno-y-desarrollo-de-software-white-rabbit-obtiene-el-2-en-hackathon-interuniversitaria/">Certus</a><br>
+<p><em> -Cursos extras en <a href="https://platzi.com/">Platzi</a><br>
+
+  
+
 
  
 
