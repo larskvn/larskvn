@@ -5,7 +5,7 @@
 <img align='right' src="https://media3.giphy.com/media/y5OffROvBod0s/giphy.gif?cid=ecf05e47j5amb7du1vv8uyvsiei17uzfnop1l5dz7dnsy5dc&rid=giphy.gif&ct=g" width="230">
 <h3></h3>
 <p><em> -Software design and development <a href="https://www.certus.edu.pe/">Certus</a><br>
-<p><em> -2.° lugar en la NTT Data Challenge 2021  team WHITE RABBIT <a href="https://estudiantes.certus.edu.pe/equipo-de-la-carrera-de-diseno-y-desarrollo-de-software-white-rabbit-obtiene-el-2-en-hackathon-interuniversitaria/">Certus</a><br>
+<p><em> -2.° lugar en la NTT Data Challenge 2021  team WHITE RABBIT <a href="https://estudiantes.certus.edu.pe/equipo-de-la-carrera-de-diseno-y-desarrollo-de-software-white-rabbit-obtiene-el-2-en-hackathon-interuniversitaria/">Aquí</a><br>
 <p><em> -Cursos extras en <a href="https://platzi.com/">Platzi</a><br>
 
   
