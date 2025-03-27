@@ -9,7 +9,7 @@ on:
       months:
         description: "Número de meses a incluir (ej: 6)"
         required: false
-        default: "12"  # Por defecto: último año
+        default: "6"  # Por defecto: último año
 
   push:
     branches:
