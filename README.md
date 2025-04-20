@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="center">Hi 👋, I'm Lars kvn<br>🚀 Backend Developer | Product Owner | Tech Enthusiast</h4>
+<h4 align="center">Hi 👋, I'm kvn<br>🚀 Backend Developer | Product Owner | Tech Enthusiast</h4>
 
 ###
 
